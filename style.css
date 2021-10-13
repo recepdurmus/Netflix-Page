@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(background_image.jpg);
+}
+
+.mainly{
+    background-color: rgba(0, 0, 0, 0.3);
+    margin: 100px;
+    margin-top: 30px;
+}
+
+#head{
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 50px;
+    
+}
+
+h1{
+    font-weight: bold;
+    color: white;
+    letter-spacing: 4px;
+}
+
+span{
+    color: red;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-family: 'Sorts Mill Goudy', serif;
+    position: relative;
+    bottom: 35px;
+    
+}
+
+#forms{
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
+
+form{
+    display: block;
+    color: white;
+    background-color: black;
+    position: relative;
+    bottom: 20px;
+}
+
+div{
+    display: block;
+}
+
+.choise{
+    padding: 5px;
+    padding-top: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+    
+}
+
+#username, #userage, #useremail, #ctype{
+    width: 400px;
+    height: 45px;
+    margin-top: 5px;
+    
+}
+
+#send{
+    margin-left: 180px;
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    border-style: none;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
